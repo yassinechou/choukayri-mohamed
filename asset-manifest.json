@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/choukayri-mohamed/static/css/main.caa97d68.css",
-    "main.js": "/choukayri-mohamed/static/js/main.d249a302.js",
+    "main.js": "/choukayri-mohamed/static/js/main.4bd27cd2.js",
     "static/media/The best moments of the Cumbre Vieja volcano eruption. Part 1, Sep 2021_ Beginning.mp4": "/choukayri-mohamed/static/media/The best moments of the Cumbre Vieja volcano eruption. Part 1, Sep 2021_ Beginning.6e8078e08e91810dcaee.mp4",
     "static/media/Terrible flood in the streets of Montevideo - Water washes away everything in its path.mp4": "/choukayri-mohamed/static/media/Terrible flood in the streets of Montevideo - Water washes away everything in its path.68446de462f642d2e7ee.mp4",
     "static/media/led-z-3.mp3": "/choukayri-mohamed/static/media/led-z-3.ea2117011aaf0e76aeac.mp3",
@@ -23,10 +23,10 @@
     "static/media/led-z-3.jpg": "/choukayri-mohamed/static/media/led-z-3.19bf3d100af2aaa47d61.jpg",
     "index.html": "/choukayri-mohamed/index.html",
     "main.caa97d68.css.map": "/choukayri-mohamed/static/css/main.caa97d68.css.map",
-    "main.d249a302.js.map": "/choukayri-mohamed/static/js/main.d249a302.js.map"
+    "main.4bd27cd2.js.map": "/choukayri-mohamed/static/js/main.4bd27cd2.js.map"
   },
   "entrypoints": [
     "static/css/main.caa97d68.css",
-    "static/js/main.d249a302.js"
+    "static/js/main.4bd27cd2.js"
   ]
 }
